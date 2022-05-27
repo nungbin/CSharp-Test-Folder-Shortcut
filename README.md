@@ -1,4 +1,4 @@
-# CSharp-Test-Folder-Shortcut
+# Test Folder Shortcut written in C#/CSharp
 <strong>Purpose</strong>: Resolve full folder path from a shortcut link
 
 This requires two packages from [nuGet](https://www.nuget.org/).
