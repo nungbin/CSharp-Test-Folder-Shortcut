@@ -1,5 +1,5 @@
 # CSharp-Test-Folder-Shortcut
-Purpose: Resolve full folder path from a shortcut link
+<strong>Purpose</strong>: Resolve full folder path from a shortcut link
 
 This requires two packages from [nuGet](https://www.nuget.org/).
 - securifybv.PropertyStore
