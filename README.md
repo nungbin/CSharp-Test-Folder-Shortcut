@@ -11,4 +11,4 @@ If not using Visual Studio Code, execute below two statements to install package
 - <code>dotnet add package securifybv.ShellLink</code>
 Once packages installed, they will appear in the .csproj file.
 
-Execute <code>dotnet build</code> to build an executable.
+Execute <code>dotnet build</code> to generate an executable.
